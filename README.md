@@ -51,14 +51,13 @@ Bar plots and Pie charts for categorical breakdowns
 ## 🖼️ Sample Screenshots
 
 ### 🔹 Dataset Head (First 5 Rows)
-![Dataset Head](screenshots/Screenshot 2025-07-02 121459.png)
+![Dataset Head](screenshots/Screenshot%202025-07-02%20121557.png)
 
 ### 🔹 Churn Distribution by Tenure
 ![Churn by Tenure](screenshots/Screenshot%202025-07-02%20121542.png)
 
 ### 🔹 Countplots for Categorical Features vs Churn
 ![Categorical Countplots](screenshots/Screenshot%202025-07-02%20121459.png)
-
 
 
 
