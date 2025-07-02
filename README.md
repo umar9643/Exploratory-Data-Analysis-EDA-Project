@@ -60,13 +60,12 @@ Statistical understanding of data
 
 Hands-on experience with Python for data analysis
 
-🤝 Let's Connect
+📬 Contact
+For feedback, suggestions, or collaboration, feel free to reach out via:
 
-Feel free to explore, fork, or suggest improvements.
-
-🔗 GitHub: https://github.com/umar9643
-🔗 LinkedIn: https://www.linkedin.com/in/umar9643/
-
+GitHub: umar9643
+LinkedIn: Umar Alam's Profile
+Email: alamumar258455@gmail.com
 
 
 
